@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "TP"
+
+
+theme = "hyde"
+
+
+[params]
+  themeColor = "theme-base-08"
+  description = "ThoughtPencil"
